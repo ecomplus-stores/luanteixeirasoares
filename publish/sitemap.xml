@@ -20,6 +20,12 @@
     </url>
   
     <url>
+      <loc>https://luanteixeirasoares.netlify.app/tabacaria</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://luanteixeirasoares.netlify.app/samsumg</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
